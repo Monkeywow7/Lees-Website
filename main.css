@@ -1,0 +1,66 @@
+
+
+/*@import url('https://fonts.googleapis.com/css?family=Amatic+SC&display=swap');*/
+
+
+body.home{background-image:url("Sky1.jpeg");
+}
+body.aboutme{background-image:url("sky2.jpeg");
+}
+body.out1{background-image:url("sky3.jpg");
+}
+body.out2{background-image:url("sky4.jpeg");
+}
+body.out3{background-image:url("sky5.jpeg");
+}
+body.uout1{background-image:url("sky6.jpeg");
+}
+body.ref{background-image:url("sky7.jpeg");
+}
+body.ref{background-image:url("skylimit.jpeg");
+}
+
+.transparent {
+    background-color: rgba(148, 211, 223, 0.4);
+    padding-left: 14px;
+    padding-right: 14px;
+}
+
+ 
+h1 {
+    color:black;
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+}
+
+h3 {
+    color:black;
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+
+}
+
+p {
+    color: black;   
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+    padding: 14px 16px ;
+}
+
+a {
+    font-family: 'Amatic SC', cursive;
+    font-size: 20px;
+}
+
+.navbar {
+    color:black
+
+
+}
+.navbar {
+    background-color: rgba(99, 100, 109, 0.329);
+    padding: 3px;
+    border-radius: 4px;
+}
+
+
